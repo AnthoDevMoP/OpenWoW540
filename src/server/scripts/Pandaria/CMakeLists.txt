@@ -10,6 +10,12 @@
 
 set(scripts_STAT_SRCS
   ${scripts_STAT_SRCS}
+  Pandaria/GateoftheSettingSun/instance_gate_of_the_setting_sun.cpp
+  Pandaria/GateoftheSettingSun/gate_of_the_setting_sun.h
+  Pandaria/GateoftheSettingSun/boss_saboteur_kiptilak.cpp
+  Pandaria/GateoftheSettingSun/boss_striker_gadok.cpp
+  Pandaria/GateoftheSettingSun/boss_commander_rimok.cpp
+  Pandaria/GateoftheSettingSun/boss_raigonn.cpp
   Pandaria/worldboss_chiji.cpp
   Pandaria/worldboss_niuzao.cpp
   Pandaria/worldboss_ordos.cpp
